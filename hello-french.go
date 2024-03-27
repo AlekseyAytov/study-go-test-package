@@ -1,4 +1,4 @@
-package french
+package main
 
 import "fmt"
 
