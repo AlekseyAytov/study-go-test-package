@@ -1,4 +1,4 @@
-package main
+package github.com/AlekseyAytov/study-go-test-package/french
 
 import "fmt"
 
